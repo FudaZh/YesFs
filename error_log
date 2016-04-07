@@ -1,0 +1,26 @@
+[27-Feb-2016 10:36:30 UTC] WordPress database error Lost connection to MySQL server during query for query show tables like 'wp_layerslider' made by require('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('after_setup_theme'), call_user_func_array, Redux::createRedux, Redux::loadRedux, ReduxFramework->__construct, ReduxFramework->_register_extensions, do_action('redux/extensions/cl_redata/before'), call_user_func_array, redux_register_custom_extension_loader, ReduxFramework_extension_metaboxes->__construct, ReduxFramework_extension_metaboxes->init, apply_filters('redux/metaboxes/cl_redata/boxes'), call_user_func_array, cl_add_general_metaboxes
+[03-Mar-2016 00:09:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 413
+[03-Mar-2016 00:09:24 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 413
+[03-Mar-2016 00:09:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 413
+[03-Mar-2016 00:09:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 413
+[03-Mar-2016 00:09:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 413
+[03-Mar-2016 00:09:48 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 413
+[03-Mar-2016 00:09:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 413
+[09-Mar-2016 02:27:44 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 418
+[09-Mar-2016 03:50:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:50:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:50:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:50:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:51:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:51:20 UTC] PHP Fatal error:  Cannot redeclare post_to_third_party() (previously declared in /home/yesfs424/public_html/wp-content/themes/tower/functions.php:407) in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:51:28 UTC] PHP Fatal error:  Cannot redeclare post_to_third_party() (previously declared in /home/yesfs424/public_html/wp-content/themes/tower/functions.php:407) in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:51:30 UTC] PHP Fatal error:  Cannot redeclare post_to_third_party() (previously declared in /home/yesfs424/public_html/wp-content/themes/tower/functions.php:407) in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:51:33 UTC] PHP Fatal error:  Cannot redeclare post_to_third_party() (previously declared in /home/yesfs424/public_html/wp-content/themes/tower/functions.php:407) in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:51:38 UTC] PHP Fatal error:  Cannot redeclare post_to_third_party() (previously declared in /home/yesfs424/public_html/wp-content/themes/tower/functions.php:407) in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:52:14 UTC] PHP Fatal error:  Cannot redeclare post_to_third_party() (previously declared in /home/yesfs424/public_html/wp-content/themes/tower/functions.php:407) in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 475
+[09-Mar-2016 03:52:58 UTC] PHP Fatal error:  Call to undefined function floarval() in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 410
+[09-Mar-2016 03:57:16 UTC] PHP Fatal error:  Call to undefined function floarval() in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 410
+[09-Mar-2016 04:00:43 UTC] PHP Fatal error:  Call to undefined function floarval() in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 410
+[09-Mar-2016 04:00:46 UTC] PHP Fatal error:  Call to undefined function floarval() in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 410
+[09-Mar-2016 04:01:30 UTC] PHP Fatal error:  Call to undefined function floarval() in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 410
+[09-Mar-2016 04:03:04 UTC] PHP Fatal error:  Call to undefined function floarval() in /home/yesfs424/public_html/wp-content/themes/tower/functions.php on line 410

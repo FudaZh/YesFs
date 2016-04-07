@@ -1,0 +1,2 @@
+[13-Mar-2016 13:08:15 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/yesfs424/public_html/wp-content/plugins/hello.php on line 60
+[13-Mar-2016 13:08:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/yesfs424/public_html/wp-content/plugins/hello.php on line 60
