@@ -240,6 +240,8 @@ if(!function_exists('codeless_logo'))
         if(!empty($cl_redata['logo']['url']) || !empty($cl_redata['logo_light']['url']) )
         {
 
+            $logo_light = '';
+                
             if(!empty($cl_redata['logo']['url']))
               $logo = "<img class='dark' src=".esc_url($cl_redata['logo']['url'])." alt='' />";
             if(!empty($cl_redata['logo_light']['url']))
